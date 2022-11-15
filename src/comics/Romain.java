@@ -19,5 +19,4 @@ public class Romain {
 	
 	public void recevoirCoup(int forceCoup) {
 		force-=forceCoup;
-		if 
-	}
+		'ghjjjhjhghjghjjjh'
