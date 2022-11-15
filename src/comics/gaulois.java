@@ -29,5 +29,5 @@ public class Gaulois {
 	public static void main(string[] args) {
 		Gaulois g = new Gaulois ("Axterix",8); 
 		system.out.println(g.getForce());
-	}asdasd
+	}
 }
